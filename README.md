@@ -2,7 +2,7 @@
 
 Companion code for *Spectral Physics: A Unified Framework* by Aaron Ben-Shalom.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18946321.svg)](https://doi.org/10.5281/zenodo.18946321)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18961252.svg)](https://zenodo.org/records/18961252)
 
 **Epistemic status:** These scripts reproduce the computational results reported in the book. They do not constitute independent validation. Every table, figure, and numerical result in the book is traceable to a script in this repository.
 
