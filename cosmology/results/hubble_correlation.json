@@ -1,0 +1,9 @@
+{
+  "description": "Lambda_1 vs local Hubble parameter from CF4++ data",
+  "r_pearson": -0.183,
+  "p_pearson": 0.010,
+  "r_spearman": -0.171,
+  "p_spearman": 0.015,
+  "n_samples": 200,
+  "interpretation": "Significant negative correlation: higher spectral gap corresponds to lower local Hubble parameter. Supports the prediction H ~ 1/lambda_1 from spectral cosmology."
+}
