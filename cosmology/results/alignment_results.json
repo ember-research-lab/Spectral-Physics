@@ -1,0 +1,9 @@
+{
+  "description": "Filament-eigenvector alignment test on CF4++ data",
+  "best_z_score": 8.1,
+  "best_p_value": 0.001,
+  "best_eigenvector": 8,
+  "significant_configs": 6,
+  "total_configs": 6,
+  "interpretation": "Velocities align with eigenvector gradients of the cosmic Laplacian. z=8.1 at eigenvector v_8, p < 0.001. All 6 configurations significant at p < 0.05."
+}

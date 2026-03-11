@@ -1,0 +1,182 @@
+[
+  {
+    "quantity": "Fine-structure constant alpha",
+    "formula": "tau^2 / (4 * phi^2)",
+    "predicted": 0.007294901687515772,
+    "experimental": 0.0072973525643314245,
+    "error_pct": 0.03358583532926704,
+    "tier": 1,
+    "book_section": "22.2"
+  },
+  {
+    "quantity": "Koide ratio K",
+    "formula": "2/3 (circulant structure)",
+    "predicted": 0.6666666666666666,
+    "experimental": 0.666611,
+    "error_pct": 0.00835069728322456,
+    "tier": 1,
+    "book_section": "22.3"
+  },
+  {
+    "quantity": "sin^2(theta_W)",
+    "formula": "lambda (Cabibbo parameter)",
+    "predicted": 0.224,
+    "experimental": 0.23122,
+    "error_pct": 3.1225672519678245,
+    "tier": 1,
+    "book_section": "22.4"
+  },
+  {
+    "quantity": "Lambda / H_0^2",
+    "formula": "2 (spectral floor)",
+    "predicted": 2.0,
+    "experimental": 2.06,
+    "error_pct": 2.9126213592233037,
+    "tier": 1,
+    "book_section": "22.5"
+  },
+  {
+    "quantity": "Omega_DM",
+    "formula": "tau = 1/(2+phi)",
+    "predicted": 0.276393202250021,
+    "experimental": 0.265,
+    "error_pct": 4.299321603781507,
+    "tier": 1,
+    "book_section": "22.7"
+  },
+  {
+    "quantity": "Omega_Lambda",
+    "formula": "1 - tau",
+    "predicted": 0.7236067977499789,
+    "experimental": 0.685,
+    "error_pct": 5.6360288686100555,
+    "tier": 1,
+    "book_section": "22.7"
+  },
+  {
+    "quantity": "Baryon asymmetry eta_B",
+    "formula": "lambda^14",
+    "predicted": 8.00704476782744e-10,
+    "experimental": 6.1e-10,
+    "error_pct": 31.26302898077772,
+    "tier": 1,
+    "book_section": "22.6"
+  },
+  {
+    "quantity": "PMNS theta_13",
+    "formula": "arcsin(lambda / sqrt(2))",
+    "predicted": 9.113569763168323,
+    "experimental": 8.61,
+    "error_pct": 5.8486615931280355,
+    "tier": 1,
+    "book_section": "22.8.1"
+  },
+  {
+    "quantity": "PMNS theta_12",
+    "formula": "arctan(1/phi)",
+    "predicted": 31.717474411461005,
+    "experimental": 33.41,
+    "error_pct": 5.065925137800035,
+    "tier": 1,
+    "book_section": "22.8.2"
+  },
+  {
+    "quantity": "PMNS theta_23",
+    "formula": "pi/4 - lambda^2/2",
+    "predicted": 43.562563483575794,
+    "experimental": 42.2,
+    "error_pct": 3.2288234207957123,
+    "tier": 1,
+    "book_section": "22.8.3"
+  },
+  {
+    "quantity": "|V_us|",
+    "formula": "lambda",
+    "predicted": 0.224,
+    "experimental": 0.2243,
+    "error_pct": 0.133749442710653,
+    "tier": 2,
+    "book_section": "22.9.1"
+  },
+  {
+    "quantity": "|V_cb|",
+    "formula": "A * lambda^2 (A = tau*phi)",
+    "predicted": 0.02243938936780589,
+    "experimental": 0.0408,
+    "error_pct": 45.00149664753458,
+    "tier": 2,
+    "book_section": "22.9.2"
+  },
+  {
+    "quantity": "|V_ub|",
+    "formula": "A * lambda^3 (A = tau*phi)",
+    "predicted": 0.005026423218388519,
+    "experimental": 0.00382,
+    "error_pct": 31.58175964367852,
+    "tier": 2,
+    "book_section": "22.9.3"
+  },
+  {
+    "quantity": "|V_us/V_ub|",
+    "formula": "1 / (A * lambda^2)",
+    "predicted": 44.564492536268126,
+    "experimental": 58.717277486910994,
+    "error_pct": 24.103271739391776,
+    "tier": 2,
+    "book_section": "22.9.4"
+  },
+  {
+    "quantity": "Jarlskog invariant J",
+    "formula": "A^2 * lambda^6 * sin(delta_CP)",
+    "predicted": 2.3547113922053015e-05,
+    "experimental": 3.08e-05,
+    "error_pct": 23.548331421905804,
+    "tier": 2,
+    "book_section": "22.9.5"
+  },
+  {
+    "quantity": "m_d/m_s",
+    "formula": "lambda^2 * tau^(1/2)",
+    "predicted": 0.02637908428168965,
+    "experimental": 0.05,
+    "error_pct": 47.2418314366207,
+    "tier": 2,
+    "book_section": "22.9.6"
+  },
+  {
+    "quantity": "m_u/m_c",
+    "formula": "lambda^4",
+    "predicted": 0.0025176309760000003,
+    "experimental": 0.0017,
+    "error_pct": 48.09593976470591,
+    "tier": 2,
+    "book_section": "22.9.7"
+  },
+  {
+    "quantity": "m_s/m_b",
+    "formula": "lambda^2",
+    "predicted": 0.050176000000000005,
+    "experimental": 0.0224,
+    "error_pct": 124.00000000000003,
+    "tier": 2,
+    "book_section": "22.9.8"
+  },
+  {
+    "quantity": "m_c/m_t",
+    "formula": "lambda^3 * tau",
+    "predicted": 0.0031065003908057405,
+    "experimental": 0.00735,
+    "error_pct": 57.73468856046611,
+    "tier": 2,
+    "book_section": "22.9.9"
+  },
+  {
+    "quantity": "CKM CP phase delta_CP",
+    "formula": "fitted (single free parameter)",
+    "predicted": 68.75,
+    "experimental": 65.4,
+    "error_pct": 5.122324159021398,
+    "tier": 3,
+    "book_section": "22.10"
+  }
+]

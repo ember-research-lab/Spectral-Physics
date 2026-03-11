@@ -1,0 +1,8 @@
+{
+  "description": "Density-lambda_1 correlation from CF4++ 16^3 subregions",
+  "r_lambda_delta": 0.950,
+  "p_lambda_delta": 1e-200,
+  "rho_lambda_delta": 0.942,
+  "n_subregions": 512,
+  "interpretation": "Strong positive correlation: denser regions have higher spectral gap. Partially tautological (graph construction links density to connectivity). See non_tautological.json for controlled test."
+}

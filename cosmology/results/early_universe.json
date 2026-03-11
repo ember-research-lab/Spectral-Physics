@@ -1,0 +1,14 @@
+{
+  "description": "Spectral early universe analysis via heat kernel retrodiction",
+  "lambda_1": 0.000187,
+  "lambda2_lambda1_ratio": 7.8,
+  "ground_state_pct": 97.9,
+  "retrodiction": {
+    "z6": {"n_recoverable": 8},
+    "z10": {"n_recoverable": 3},
+    "z14": {"n_recoverable": 2}
+  },
+  "n_fixed_points": 13,
+  "spectral_time_convention": "tau_s = 3*H0^2*Delta_t",
+  "interpretation": "The z=0 cosmic Laplacian is 97.9% ground state. Only 3 modes are recoverable at z=10 via Tikhonov-regularized inverse heat kernel. 13 spectral fixed points identified as predicted BH formation sites."
+}

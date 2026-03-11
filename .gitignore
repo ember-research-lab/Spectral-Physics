@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (too large for git)
+cosmology/data/*.npz
+cosmology/data/*.fits
+regime-detection/data/*.csv
+regime-detection/data/*.parquet
+
+# Generated figures
+figures/output/
+
+# uv
+uv.lock
+
+# Jupyter
+.ipynb_checkpoints/

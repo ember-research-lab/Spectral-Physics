@@ -1,0 +1,13 @@
+{
+  "description": "Non-tautological test: does lambda_1 predict beyond density?",
+  "partial_correlation": 0.174,
+  "delta_r2": 0.030,
+  "r2_density_only": 0.120,
+  "r2_density_plus_lambda1": 0.150,
+  "void_expansion": {
+    "r_void": -0.15,
+    "p_void": 0.03,
+    "low_lambda1_expands_faster": true
+  },
+  "interpretation": "Lambda_1 has residual predictive power beyond density alone. Partial correlation r=0.174 after controlling for density. Adding lambda_1 improves velocity prediction by 3.0%. Low-lambda_1 voids expand faster than density predicts."
+}
