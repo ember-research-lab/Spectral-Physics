@@ -1,6 +1,6 @@
 # Spectral Physics
 
-Companion code for *Spectral Physics: A Unified Framework* by Aaron Ben-Shalom.
+Companion code for *Spectral Physics: A Unified Framework* (Ember Research Lab).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18961252.svg)](https://zenodo.org/records/18961252)
 
