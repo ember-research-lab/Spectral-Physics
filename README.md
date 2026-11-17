@@ -2,7 +2,7 @@
 
 Companion code for *Spectral Physics: A Unified Framework* (Ember Research Lab).
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18961252.svg)](https://zenodo.org/records/18961252)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18946320.svg)](https://doi.org/10.5281/zenodo.18946320)
 
 **Epistemic status:** These scripts reproduce the computational results reported in the book. They do not constitute independent validation. Every table, figure, and numerical result in the book is traceable to a script in this repository.
 
@@ -53,9 +53,9 @@ Some subdirectories require external data:
   title     = {Spectral Physics: A Unified Framework},
   author    = {{Ember Research Lab}},
   year      = {2026},
-  doi       = {10.5281/zenodo.18946321},
+  doi       = {10.5281/zenodo.23675816},
   publisher = {Zenodo},
-  note      = {Preprint, v0.8}
+  note      = {Preprint, v0.8.2}
 }
 ```
 
